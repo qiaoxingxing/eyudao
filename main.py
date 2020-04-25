@@ -19,7 +19,7 @@ class CrocodileIsland():
 
     is_win = False
 
-    # 获取鳄鱼到岛边某位置的时间
+    # 获取鳄鱼到岛边某位置的距离
     def get_croco_distantce(self, theta):
         '''
         theta: 岛上某位置的极坐标的角度
